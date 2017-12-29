@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Category
+comment1.params=
+comment1.target=Category()
+comment2.params=weight\ isWeighted\ name
+comment2.target=Category(double,\ boolean,\ java.lang.String)
+comment3.params=name
+comment3.target=void\ setCategoryName(java.lang.String)
+comment4.params=weight
+comment4.target=void\ setCategoryGradeWeight(double)
+comment5.params=isWeighted
+comment5.target=void\ setCategoryWeighted(boolean)
+comment6.params=earned\ potential
+comment6.target=void\ addAssignment(double,\ double)
+comment7.params=
+comment7.target=void\ getAverage()
+comment8.params=
+comment8.target=double\ getCredit()
+comment9.params=
+comment9.target=double\ getWeight()
+numComments=10

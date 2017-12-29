@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Course
+comment1.params=isWeighted\ numCategories
+comment1.target=Course(boolean,\ int)
+comment2.params=weight\ isWeighted\ name
+comment2.target=void\ addCateGory(double,\ boolean,\ java.lang.String)
+comment3.params=index\ earned\ possible
+comment3.target=void\ addAssignment(int,\ double,\ double)
+comment4.params=
+comment4.target=void\ getClassCredit()
+numComments=5
